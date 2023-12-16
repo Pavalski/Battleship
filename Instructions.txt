@@ -1,0 +1,45 @@
+1)    You must place 5 ships on Your Board.
+The ship sizes are 5, 4, 3, 3, and 2 in length and all are 1 in width. 
+They are stated under your board.
+
+#: Means you already placed the ship.
+#: Means you are currently placing the ship.
+#: Means you didn't place this ship yet.
+(#) stands for the length of the ship.
+----------------------------------------------------------------------
+2) Each ship has an invisible border around it, 
+so you can't place a ship right beside another ship.
+----------------------------------------------------------------------
+3) When asking for the starting coordinates enter row then column.
+For example: b6
+----------------------------------------------------------------------
+4) After placing the first point, you will be asked to choose a direction.
+All possible directions will be given to you.
+----------------------------------------------------------------------
+5)You may input any of the values (ex. either d or down) for it to work
+There will be * showing you how your ship would look.
+----------------------------------------------------------------------
+6) Once you have chosen a direction you like, input e or enter into the 
+(Choose a direction: ) question for the ship to be placed.
+ex. Choose a direction: e
+
+Continue this until all 5 of your ships are placed.
+----------------------------------------------------------------------
+
+1)    You need to sink all 5 of the opponents's ships before they sinks yours.
+You attack Computer's Board or the other player's board.
+To attack choose a coordinate you would like to strike.
+Ex. c3, e5
+
+X: Means it's a miss.
+@: Means it's a hit.
+----------------------------------------------------------------------
+2) If you hit or sink a ship this text appears.
+----------------------------------------------------------------------
+3) There will be text showing how many of each player's ships are alive.
+
+#: Means the ship is alive.
+#: Means the ship was sunk.
+(#) stands for the length of the ship.
+----------------------------------------------------------------------
+4) Once the game is over * will show where all the still hidden ships are.
